@@ -14,4 +14,5 @@ I am not associated with EA SPORTS™ or Microsoft™
 # Change Logs
 
 v1.0 - Initial Release
+
 v1.1 - UI Design Changes and added Ugly Skater, Horror Mode and Crash Game options.
