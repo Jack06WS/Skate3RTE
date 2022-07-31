@@ -4,7 +4,7 @@ This is an RTE program that connects to your console and allows you to cheat in 
 I am not associated with EA SPORTS™ or Microsoft™
 
 # The RTE Tool
-![alt text](https://raw.githubusercontent.com/Jack06WS/Skate3RTE/main/Images/EXE.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Jack06WS/Skate3RTE/main/Images/v1.2.png?raw=true)
 
 # Xbox 360 Screenshots
 ![alt text](https://raw.githubusercontent.com/Jack06WS/Skate3RTE/main/Images/1.png?raw=true)
@@ -16,3 +16,5 @@ I am not associated with EA SPORTS™ or Microsoft™
 v1.0 - Initial Release
 
 v1.1 - UI Design Changes and added Ugly Skater, Horror Mode and Crash Game options.
+
+v1.2 - UI Design Changes and Changed some buttons to be "Default" instead of complicated wording.
